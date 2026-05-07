@@ -15,5 +15,7 @@ We use `std::cout` when we want to print to the screen.
 
 [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 
-![The San Juan Mountains are beautiful](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
-<img src="image.png" width="200" height="100">
+![The San Juan Mountains are beautiful](assets/images/san-juan-mountains-1080.webp "San Juan Mountains")
+
+<img src="assets/images/san-juan-mountains-1080.webp" alt="San Juan Mountains are Beautiful" width="200" height="100">
+<figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
